@@ -42,4 +42,5 @@ jobs:
           file: ./Dockerfile
           platforms: linux/amd64
           push: true
+          tags: https://hub.docker.com/r/calory/slim
 
