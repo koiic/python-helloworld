@@ -42,5 +42,5 @@ jobs:
           file: ./Dockerfile
           platforms: linux/amd64
           push: true
-          tags: https://hub.docker.com/repository/docker/calory/slim
+          tags: calory/slim:latest
 
